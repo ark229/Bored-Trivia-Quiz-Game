@@ -6,7 +6,7 @@ Bored Trivia is an interactive quiz game developed in Java using the Swing frame
 ## 🔴 Features:
 
 1. Dynamic Question Sets: Offers a collection of multiple-choice questions on diverse topics. Questions are shuffled every time the game starts, ensuring a fresh experience for repeat plays.
-2. Time-Bound Responses: Each question needs to be answered within a 10-second window, adding a layer of challenge and excitement.
+2. Time-Bound Responses: Each question needs to be answered within a 10-second window, adding a layer of challenge.
 3. Immediate Feedback: After each question, the game provides instant feedback, indicating whether the player's response was correct or incorrect.
 4. Score Calculation: Tracks the user's score throughout the game and presents a final score as a percentage at the end.
 5. Restart Option: Allows players to restart the game once finished, with questions reshuffled for a new challenge.
