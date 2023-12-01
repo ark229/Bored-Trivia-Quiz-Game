@@ -124,15 +124,28 @@ public class QuizGameGUI {
                 "What is the size of an integer in Java?",
                 "Where was the first example of paper money used?",
                 "Who is generally considered the inventor of the motor car?",
-                "What Italian city is famous for its system of canals?"
+                "What Italian city is famous for its system of canals?",
+                "What is the national sport of Canada?",
+                "In what year were the first Air Jordan sneakers released?",
+                "If you were looking at Iguazu Falls, on what continent would you be?",
+                "What spirit is used in making a Tom Collins?",
+                "The fear of insects is known as what?",
+                "Which Game of Thrones character is known as the Young Wolf?"
+
         };
         choices = new String[][] {
                 { "A: 32 bits", "B: 16 bits", "C: 64 bits", "D: 8 bits" },
                 { "A: China", "B: Turkey", "C: Greece", "D: Rome" },
                 { "A: Henry Ford", "B: Karl Benz", "C: Henry M. Leland", "D: Alexander Winton" },
-                { "A: Rome", "B: Naples", "C: Venice", "D: Comacchio" }
+                { "A: Rome", "B: Naples", "C: Venice", "D: Comacchio" },
+                { "A: Hockey", "B: Curling", "C: Skiing", "D: Lacrosse" },
+                { "A: 1985", "B: 1984", "C: 1987", "D: 1990" },
+                { "A: Asia", "B: South America", "C: Africa", "D: North America" },
+                { "A: Vodka", "B: Rum", "C: Wiskey", "D: Gin" },
+                { "A: Entomophobia", "B: Ailurophobia", "C: Arachnophobia", "D: Enochlophobia" },
+                { "A: Arya Stark", "B: Sansa Stark", "C: Robb Stark", "D: Eddard Stark" }
         };
-        answers = new String[] { "A", "A", "B", "C" };
+        answers = new String[] { "A", "A", "B", "C", "D", "B", "B", "D", "A", "C" };
     }
 
     private void shuffleQuestions() {
